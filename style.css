@@ -3,14 +3,26 @@ p {
     color: red;
 }
 
+body {
+    background-color: lightblue;
+  }
+
+  main {
+    width: 60%;
+    padding:auto;
+    margin:auto;
+    text-align:centre;
+    border-left:10px solid hotpink;
+    border-right: 10px solid hotpink;
+    background-color: maroon;
+  }
 
 h1 {
     text-decoration: underline;
     font-size: 4em;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
-    text-shadow: 1px 2px green;
-    color: hotpink;
+    background-color: lightslategray;
 }
 
 h2 {
@@ -36,27 +48,22 @@ div.hoo:hover {
 
 div.container1 {
     table-layout: auto;
-        margin: auto;
-        width: 50%;
-        border: 3px solid green;
-        padding: 3px;
-        text-align: center;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 3px;
+    text-align: center;
+    background-color: white;
         
       }
 
 table.wikitable {
     margin: auto;
 	width: 600px;
-	
-	
-    
-    
     background-color: #9ca4ac;
     color: #222;
-  
     border: 1px solid #777879;
     border-collapse: collapse;
-
 }
    
 
