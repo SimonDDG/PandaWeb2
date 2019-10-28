@@ -6,3 +6,9 @@ p {
 a {
     color: blue;
 }
+
+/* resize images */
+.container img {
+    width: 50%;
+    height: auto;
+}
