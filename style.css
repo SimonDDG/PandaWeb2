@@ -27,14 +27,22 @@ div.container1 {
         border: 3px solid green;
         padding: 3px;
         text-align: center;
+        
       }
 
 table.wikitable {
     margin: auto;
 	width: 600px;
-	border-collapse: collapse;
-	border: 2px solid rgb(90, 65, 65); 
-	border-style: solid;
+	
+	
+    
+    
+    background-color: #9ca4ac;
+    color: #222;
+  
+    border: 1px solid #777879;
+    border-collapse: collapse;
+
 }
    
 
