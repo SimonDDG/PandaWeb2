@@ -8,9 +8,13 @@ a {
 }
 
 /* resize images */
-div.img img{
-    width: 50%;
-    height: auto;
+img{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    
 }
 
 h1 {
