@@ -31,9 +31,10 @@ div.container1 {
     table-layout: auto;
         margin: auto;
         width: 50%;
-        
         padding: 3px;
         text-align: center;
+
+        border: outset 10px #9ca4ac;
         
       }
 
