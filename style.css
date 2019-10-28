@@ -8,7 +8,7 @@ a {
 }
 
 /* resize images */
-.container img {
+div.img img{
     width: 50%;
     height: auto;
 }
@@ -18,3 +18,14 @@ h1 {
     font-size: 3em;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+div.container1 {
+
+        margin: auto;
+        width: 50%;
+        border: 3px solid green;
+        padding: 10px;
+      }
+   
+
+
