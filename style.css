@@ -3,7 +3,7 @@ p {
     color: red;
 }
 
-body {
+main {
     width: 800px;
     border: dotted 15px burlywood;
     margin: 40px auto;
