@@ -29,27 +29,22 @@ img{
 
 div.container1 {
     table-layout: auto;
-        margin: auto;
-        width: 50%;
-        border: 3px solid green;
-        padding: 3px;
-        text-align: center;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 3px;
+    text-align: center;
+    background-color: white;
         
       }
 
 table.wikitable {
     margin: auto;
 	width: 600px;
-	
-	
-    
-    
     background-color: #9ca4ac;
     color: #222;
-  
     border: 1px solid #777879;
     border-collapse: collapse;
-
 }
    
 
