@@ -7,6 +7,15 @@ body {
     background-color: lightblue;
   }
 
+  main {
+    width: 60%;
+    padding:auto;
+    margin:auto;
+    text-align:centre;
+    border-left:10px solid hotpink;
+    border-right: 10px solid hotpink;
+  }
+
 h1 {
     text-decoration: underline;
     font-size: 4em;
