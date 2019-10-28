@@ -19,13 +19,19 @@ h2 {
     text-decoration-style: wavy;
 }
 
-img{
+img {
 
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
     
+}
+
+div.hoo:hover {
+    -moz-box-shadow: 0 0 10px #ccc;
+    -webkit-box-shadow: 0 0 10px #ccc;
+    box-shadow: 0 0 10px #ccc;
 }
 
 div.container1 {
